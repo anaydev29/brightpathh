@@ -26,25 +26,6 @@
 
 ---
 
-## 📸 Screenshots
-![Uploading image.png…]()
-
-### 🔐 Landing Page
-<p align="center">
-  <img src="screenshots/landing.png" width="700" alt="BrightPath Landing Page"/>
-</p>
-
-### 🏠 Dashboard
-<p align="center">
-  <img src="screenshots/dashboard.png" width="700" alt="BrightPath Dashboard"/>
-</p>
-
-### 🌬️ Breathing Exercise
-<p align="center">
-  <img src="screenshots/breathing.png" width="700" alt="BrightPath Breathing Exercise"/>
-</p>
-
----
 
 ## ✨ Features
 
